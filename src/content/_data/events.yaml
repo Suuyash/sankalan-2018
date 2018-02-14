@@ -165,7 +165,7 @@ spin-a-web:
   rounds:
     - Multiple-choice questions based on internet, Web Servers, Web Development, HTML, CSS & JavaScript and PHP/.Net.
     - |-
-      The qualifying teams would be asked to develop a website using HTML, CSS, PHP/.Net and MySQL, overnight at their own places and next day present their project to judges for final evaluation.
+      The qualifying teams would be asked to develop a website using HTML, CSS, PHP/.Net and MySQL/SQL Server, overnight at their own places and next day present their project to judges for final evaluation.
   details:
     - 'Operating System: Any Suitable System.'
-    - 'Platform: Apache 2.4.x / PHP 5.6/7.2 / MySQL 5.6.x / Asp.Net / Node / MongoDB or as per requirement'
+    - 'Platform: Apache 2.4.x / PHP 5.6/7.2 / MySQL 5.6.x / SQL Server 2012 or above / Asp.Net / Node / MongoDB or as per requirement'
